@@ -11,7 +11,7 @@ git init
 git add . //tout ajouter
 git add <File> // ajouter un fichier spécifique
 ```
-- commiter un commit avec un message:
+- Soumettre un commit avec un message:
 ```git
 git commit -m "message"
 ```
